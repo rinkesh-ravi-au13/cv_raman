@@ -1,0 +1,16 @@
+Ques1-hat happens when we click www.google.com?
+Ans- we will have to click www.google.com in any browser then the browser checks the cache for a DNS record to find the corresponding IP address of www.google.com .
+         DNS(Domain Name System) is a database that maintains the name of the website (URL) and the particular IP address it links to. Every single URL on the internet has a unique IP address assigned to it. The IP address belongs to the computer which hosts the server of the website we are requesting to access.www.google.com has an IP address of 8.8.8.8. 8.8.4.4. So if you’d like, you can reach www.google.com by typing http://8.8.8.8. 8.8.4.4. on your browser. DNS is a list of URLs, and their IP addresses, like how a phone book is a list of names and their corresponding phone numbers.
+
+Ques2-Difference between horizontal and vertical scaling?
+Ans-Scaling can be categorised into 2 types:
+
+ 1-Vertical Scaling:
+When new resources are added in the existing system to meet the expectation, it is known as vertical scaling.
+Consider a rack of servers and resources that comprises of the existing system. (as shown in the figure). Now when the existing system fails to meet the expected needs, and the expected needs can be met by just adding resources, this is considered as vertical scaling.Vertical scaling is not only easy but also cheaper than Horizontal Scaling. It also requires less time to be fixed.
+
+2-Horizontal Scaling:
+When new server racks are added in the existing system to meet the higher expectation, it is known as horizontal scaling.
+Consider a rack of servers and resources that comprises of the existing system. (as shown in the figure). Now when the existing system fails to meet the expected needs, and the expected needs cannot be met by just adding resources, we need to add completely new servers. This is considered as horizontal scaling.Horizontal scaling is difficult and also costlier than Vertical Scaling. It also requires more time to be fixed.
+ 
+
