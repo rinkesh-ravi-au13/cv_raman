@@ -8,7 +8,7 @@ for x in range( 1, a+1 ):
     d2 [x] = x * x 
     print(d2) 
 
-# output :-
+# output -
 #Input Any Number :- 4
 #{1: 1}
 #{1: 1, 2: 4}
