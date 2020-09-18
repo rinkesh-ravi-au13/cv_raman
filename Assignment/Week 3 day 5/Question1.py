@@ -2,5 +2,5 @@
 
 i = 1
 while(i<=10):
-    print (" First 10 natural numbers are :-" , i)
+    print (i)
     i += 1
